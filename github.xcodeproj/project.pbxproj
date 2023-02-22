@@ -14,6 +14,7 @@
 		4F7E801129A5A24500552C51 /* githubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E801029A5A24500552C51 /* githubTests.swift */; };
 		4F7E801B29A5A24500552C51 /* githubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E801A29A5A24500552C51 /* githubUITests.swift */; };
 		4F7E801D29A5A24500552C51 /* githubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E801C29A5A24500552C51 /* githubUITestsLaunchTests.swift */; };
+		4F7E802A29A5AB0700552C51 /* backgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E802929A5AB0700552C51 /* backgroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		4F7E801629A5A24500552C51 /* githubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F7E801A29A5A24500552C51 /* githubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubUITests.swift; sourceTree = "<group>"; };
 		4F7E801C29A5A24500552C51 /* githubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4F7E802929A5AB0700552C51 /* backgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				4F7E7FFF29A5A24300552C51 /* githubApp.swift */,
 				4F7E800129A5A24300552C51 /* MainView.swift */,
+				4F7E802929A5AB0700552C51 /* backgroundView.swift */,
 				4F7E800329A5A24500552C51 /* Assets.xcassets */,
 				4F7E800529A5A24500552C51 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				4F7E800229A5A24300552C51 /* MainView.swift in Sources */,
 				4F7E800029A5A24300552C51 /* githubApp.swift in Sources */,
+				4F7E802A29A5AB0700552C51 /* backgroundView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
