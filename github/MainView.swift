@@ -9,7 +9,7 @@
 
     //helloooooo
 
-    struct ContentView: View {
+    struct MainView: View {
         var body: some View {
             Text("Khyle De Guia testing Github")
                 .padding()
@@ -18,6 +18,6 @@
 
     struct ContentView_Previews: PreviewProvider {
         static var previews: some View {
-            ContentView()
+            MainView()
         }
     }
